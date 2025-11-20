@@ -1,6 +1,6 @@
 package data
 
-import "go-backend-demo/models"
+import "API/models"
 
 // In-memory DB
 var Items = []models.Item{
